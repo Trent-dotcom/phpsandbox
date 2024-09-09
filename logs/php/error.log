@@ -1,0 +1,11 @@
+[15-Nov-2023 17:22:17 UTC] PHP Parse error:  syntax error, unexpected identifier "world" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 2
+[15-Nov-2023 17:22:17 UTC] PHP Parse error:  syntax error, unexpected identifier "world" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 2
+[15-Nov-2023 17:36:35 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ";" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 23
+[15-Nov-2023 17:36:35 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ";" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 23
+[15-Nov-2023 17:37:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 23
+[15-Nov-2023 17:37:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 23
+[15-Nov-2023 17:37:21 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 23
+[15-Nov-2023 17:37:21 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 23
+[15-Nov-2023 17:53:33 UTC] PHP Warning:  Undefined array key "s" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 37
+[15-Nov-2023 17:53:46 UTC] PHP Warning:  Undefined array key "s" in C:\Users\Trent\Local Sites\phpsandbox\app\public\index.php on line 37
+[08-Sep-2024 23:31:30 UTC] Cron unschedule event error for hook: wp_update_comment_type_batch, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
